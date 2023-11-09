@@ -116,6 +116,7 @@ Some services are interesting since they don't provide only **running tests on t
 - [Mobile-Security-Framework-MobSF](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF)
 - [OpenSTF](https://github.com/openstf) (2.x support API to control devices remotely.)
 - [Appium Java REPL](https://mobileboxlab.github.io/appium-java-repl/index.html)
+- [testomatio-reporter](https://github.com/testomatio/reporter) real-time reporting and analytics, running tests on CI\CD. Jira, Liner, AzureDevOps task mask management.
 
 ## Documents
 
